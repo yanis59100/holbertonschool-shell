@@ -1,2 +1,1 @@
-$ wc test
--l file test
+#!/bin/bash
