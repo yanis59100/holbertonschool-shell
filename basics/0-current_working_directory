@@ -1,1 +1,2 @@
 #!/bin/bash
+#$ le fichier wc -l doit imprimer 2
