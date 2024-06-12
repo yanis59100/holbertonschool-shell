@@ -1,2 +1,2 @@
 #!/bin/bash
-cp "ls -la" "ls_cwd_content"
+echo "ls -la" | grep -v "ls_cwd_content"
