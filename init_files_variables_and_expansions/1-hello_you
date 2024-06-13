@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami hello user
+export USER='hello user'
